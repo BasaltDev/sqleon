@@ -124,7 +124,7 @@ Currently there are 4 constraint types:
 If you don't have python installed, you can get it from [www.python.org](https://www.python.org/).
 ### **Step 2:** Clone the GitHub repository.
 ```Bash
-git clone https://github.com/BasaltDev/SQLeon
+git clone https://github.com/BasaltDev/sqleon
 cd SQLeon
 ```
 ### **Step 3:** Run SQLeon
