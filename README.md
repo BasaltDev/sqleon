@@ -123,13 +123,13 @@ Currently there are 4 constraint types:
 ### **Step 1:** Make sure you have Python installed.
 If you don't have python installed, you can get it from [www.python.org](https://www.python.org/).
 ### **Step 2:** Clone the GitHub repository.
-```Bash
+```bash
 git clone https://github.com/BasaltDev/sqleon
 cd SQLeon
 ```
 ### **Step 3:** Run SQLeon
 You can run SQLeon using the following command:
-```Powershell
+```bash
 python sqleon.py --help
 ```
 You can figure out the rest from there.
